@@ -3,7 +3,7 @@ package pacoteProjetoTeste01;
 import java.util.Scanner;
 
 public class Ex03Ljava {
-	public static void mais(String args[])
+	public static void main(String args[])
 	{
 		Scanner leia = new Scanner (System.in);
 		
